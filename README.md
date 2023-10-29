@@ -28,7 +28,6 @@ Weatherly is a lightweight and user-friendly weather app designed to provide you
 ![UI Page 1](https://ucarecdn.com/931bf3ae-029c-43d3-9040-4c636dc469e7/-/scale_crop/423x949/-/format/auto/-/quality/best/)
 ![UI Page 2](https://ucarecdn.com/5b5d7118-80c0-4094-a738-bc19499feb8f/-/scale_crop/423x945/-/format/auto/-/quality/best/)
 ![UI Page 3](https://ucarecdn.com/085c5634-2be8-4777-a145-fcb26cd9bb42/-/scale_crop/425x948/-/format/auto/-/quality/best/)
-![UI Page 4](https://ucarecdn.com/11074ef4-4e12-4320-a9a8-a78a8b8abb5a/-/scale_crop/426x946/-/format/auto/-/quality/best/)
 
 
 
